@@ -57,6 +57,10 @@ upstream  https://github.com/iccrg/buku--go-cloud.git (fetch)
 upstream  https://github.com/iccrg/buku--go-cloud.git (push)
 $
 ```
+Menghapus upstream:
+```
+$git remote remove upstream
+```
 
 * Selesai setting awal.
 
